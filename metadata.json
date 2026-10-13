@@ -1,0 +1,8 @@
+{
+  "name": "Tarhan Koleji Kodluyor",
+  "description": "Kodla, keşfet, geleceği tasarla! Her yaşa uygun etkileşimli etkinliklerle dijital becerilerinizi geliştiren kapsamlı bir kodlama platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
